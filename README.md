@@ -7,3 +7,7 @@ Three in one Disease Predictor (Common Disease, Heart Disease and Covid-19 Predi
 
 ![plot](Images/CommonDiseasePredictor.jpg)
 
+![plot](Images/HeartDiseasePredictor.jpg)
+
+![plot](Images/Covid19Predictor.jpg)
+
